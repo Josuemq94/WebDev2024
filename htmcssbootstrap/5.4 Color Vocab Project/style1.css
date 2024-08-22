@@ -1,0 +1,31 @@
+.color-title{
+    font-weight: normal;
+    color: orange;
+}
+
+img{
+    width: 200px;height: 200px;
+    border-radius: 25px;
+}
+
+*{
+    background-color: rebeccapurple;  
+}
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}

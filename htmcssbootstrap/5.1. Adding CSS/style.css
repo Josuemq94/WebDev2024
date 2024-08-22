@@ -1,0 +1,10 @@
+
+h1{color: green;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{color: red;
+    font-weight: 400;
+}
+h3{color: blue;
+flex-direction: column-reverse;
+}
