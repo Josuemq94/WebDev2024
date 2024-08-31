@@ -42,5 +42,9 @@ for (let i = 0; i < numberBtn; i++) {
         default:
           break;
       }
+
     });
+    document.addEventListener("keydown",function(){
+      alert("Any key was pressed")
+    })
 }
