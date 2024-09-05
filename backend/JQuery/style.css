@@ -1,0 +1,10 @@
+button, a{
+    display: inline-flexbox;
+    flex-direction: column;
+    padding: 0.5em;
+    margin: 0.5em;
+    color: aqua;
+    background-color: blueviolet;
+    border-color: whitesmokeff;
+
+}
